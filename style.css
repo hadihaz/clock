@@ -1,0 +1,14 @@
+body {
+    background: rgb(13, 2, 48);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #fe1796;
+    font-size: 80px;
+
+}
